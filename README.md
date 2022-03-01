@@ -1,7 +1,8 @@
 - 👋 Hi, I’m William Agyapong
-- 👀 I’m interested in web development, statistical computing and data science
-- 🌱 I’m currently learning software development and data science in R
+- 👀 I’m interested in Web Development, Statistical Computing and Data Science
+- 🌱 I’m currently learning Software Development and Data Science in R
 - 💞️ I’m looking to collaborate on R  and Data Science projects
+- :dart: My goal is to help create software tools to advance the practice and learning of Data Science
 - 📫 How to reach me: williamofosuagypang@gmail.com
 
 <!---
