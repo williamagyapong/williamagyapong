@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @williamagyapong
+- 👋 Hi, I’m William Agyapong
 - 👀 I’m interested in web development, statistical computing and data science
 - 🌱 I’m currently learning software development and data science in R
 - 💞️ I’m looking to collaborate on R  and Data Science projects
